@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jwtgen"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI that generates a JWT based on a local jwtgen.json file"
 authors = ["Aaron West <aphexlog@gmail.com>"]
 license = "MIT"
