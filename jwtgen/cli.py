@@ -23,7 +23,6 @@ def generate_template():
         "client_id": "a123456",
         "iss": "https://sso.example.com",
         "jti": "aBcD1234EfGh5678IjKl",
-        "aud": "https://sso.exampleapp.com",
         "sub": "exampleuser",
         "auth_time": 1716307067,
         "groups": [
